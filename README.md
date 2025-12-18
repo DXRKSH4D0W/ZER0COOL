@@ -17,8 +17,8 @@ Please provide as much information as you can to best help us understand your is
 
 
 ## Credits
-TOKYO_DEV
-Sold By: ThermaLux
+TOKYO_DEV,
+Sold By: ThermaLux,
 Forked From Meteor Client, But with added Commands/abilities!!
 
 ## Licensing
