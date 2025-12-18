@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "ZER0COOL Client",
-  "id": "meteor-client",
+  "id": "ZER0COOL",
   "version": "${version}",
   "description": "Based utility mod.",
   "authors": [
