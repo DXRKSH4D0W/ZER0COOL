@@ -7,7 +7,7 @@
 <p align="center">Fabric Utility Mod for anarchy/survival servers.</p>
 
 <div align="center">
-    <a href="https://discord.gg/bBGQZvd"><img src="https://cdn.discordapp.com/attachments/1441896385514573954/1451119099735183493/Screenshot_2025-12-06_113755.png?ex=69450379&is=6943b1f9&hm=5d91dadeab16d3c17c12d63e1f4c902a311ff5bcdd634e2f00e235f3c9f787c4&" alt="Discord"/></a>
+    <a href="https://discord.gg/CMyVxURhYk"><img src="https://cdn.discordapp.com/attachments/1441896385514573954/1451119099735183493/Screenshot_2025-12-06_113755.png?ex=69450379&is=6943b1f9&hm=5d91dadeab16d3c17c12d63e1f4c902a311ff5bcdd634e2f00e235f3c9f787c4&" alt="Discord"/></a>
     <br>
 </div>
 
@@ -29,4 +29,4 @@ If you use **ANY** code from the source:
 - You must state clearly and obviously to all end users that you are using code from this project.
 - Your application must also be licensed under the same license.
 
-ThermaLux Official Discord: https://discord.gg/bBGQZvd
+ThermaLux Official Discord: https://discord.gg/CMyVxURhYk
