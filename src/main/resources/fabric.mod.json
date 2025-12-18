@@ -1,19 +1,16 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
+  "name": "ZER0COOL Client",
   "id": "meteor-client",
   "version": "${version}",
   "description": "Based utility mod.",
   "authors": [
-    "MineGame159",
-    "squidoodly",
-    "seasnail"
+    "TOKYO_DEV",
+    "Sold By: ThermaLux"
   ],
   "contact": {
-    "homepage": "https://meteorclient.com",
-    "issues": "https://github.com/MeteorDevelopment/meteor-client/issues",
-    "sources": "https://github.com/MeteorDevelopment/meteor-client",
-    "discord": "https://meteorclient.com/discord"
+    "homepage": "Website In The Making!!",
+    "discord": "https://discord.gg/CMyVxURhYk"
   },
   "license": "GPL-3.0",
   "icon": "assets/meteor-client/icon.png",
